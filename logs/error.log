@@ -1,0 +1,1 @@
+[Mon May 11 14:17:36.074501 2020] [autoindex:error] [pid 8853] [client 127.0.0.1:60828] AH01276: Cannot serve directory /var/vhosts/angular-php-app.project/web/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
