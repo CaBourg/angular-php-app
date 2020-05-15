@@ -1,7 +1,4 @@
 <?php
-/**
- * Return de list of policies
- */
 require 'database.php';
 
 $policies = [];
